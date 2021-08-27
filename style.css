@@ -1,0 +1,30 @@
+.day {
+    background-image:url("./day.png");
+    background-size: cover;
+    color: beige;
+}
+
+.night {
+    background-image:url("./night.png");
+    background-size: cover;
+    color: beige;
+}
+
+/* h2 {
+    padding-top: 30px;
+    margin-bottom: 30px;
+} */
+  
+  .centered {
+    width:600px;
+    height:150px;
+    position: fixed;
+    background-color: #49739bc4;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -70px;
+  }
+  .selector-for-some-widget {
+    box-sizing: content-box;
+  }
